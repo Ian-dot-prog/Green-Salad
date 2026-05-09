@@ -64,6 +64,7 @@ header h1 {
     height: 60vh;
     width: 100%;
     background: url("../img/Torta_hero.png") center/cover no-repeat;
+    background-position: right;
     filter: brightness(60%);
 }
 
