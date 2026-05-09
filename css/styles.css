@@ -5,7 +5,7 @@
 
 /* HEADER */
 header .barra {
-    background-color: rgb(97, 162, 58);
+    background-color: rgb(87, 156, 47);
 
     display: flex;
     justify-content: space-between;
@@ -18,8 +18,11 @@ header .barra {
 }
 .barra {
 
-    position: sticky;
+    position: fixed;
     top: 0;
+    left: 0;
+
+    width: 100%;
     z-index: 1000;
 
 }
