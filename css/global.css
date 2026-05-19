@@ -1,0 +1,41 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background: linear-gradient(to bottom, #ffffff, #e8f4e5);
+}
+
+li {
+    list-style: none
+}
+
+/* HEADER */
+header .barra {
+    background-color: rgb(87, 156, 47);
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    padding-top: 5px;
+    padding-right: 0;
+    padding-left: 0;
+    padding-bottom: 0;
+}
+
+.barra {
+    position: fixed;
+    top: 0;
+    left: 0;
+
+    width: 100%;
+    z-index: 1000;
+
+}
+
+header img {
+    height: 100px;
+    width: 150px;
+}
