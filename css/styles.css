@@ -4,7 +4,7 @@ header .contacto {
     list-style: none;
     display: flex;
     margin-left: auto;
-    padding-right: 30px;
+    padding-right: 15px;
     font-size: 20px;
 }
 header a {
