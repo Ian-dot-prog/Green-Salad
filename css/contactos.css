@@ -28,7 +28,6 @@
 .logo-titulo {
     display: flex;
     align-items: center;
-    gap: 8px;
     img {
         height: 100px;
         width: 140px;
@@ -40,17 +39,12 @@ header img {
     width: auto;
 }
 
-header h1 {
-    font-size: 30px;
-    color: white;
-}
-
 /* MENU */
 header .menu {
     display: flex;
     list-style: none;
     margin-left: auto;
-    padding-right: 30px;
+    padding-right: 15px;
     font-size: 20px;
 }
 
